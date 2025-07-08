@@ -1,2 +1,1 @@
-Original content
-Master branch change
+Change from conflict branch
